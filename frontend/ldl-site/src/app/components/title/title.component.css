@@ -1,0 +1,44 @@
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ldl-title-bg {
+    background-color: #F3E9EC;
+    height: 600px;
+    
+
+}
+.ldl-title-text {
+    display: inline;
+    vertical-align: middle;
+}
+.title-text {
+    text-align: center;
+    height: 55px;
+    padding-top: 10px;
+}
+
+.ldl-slogan {
+    text-align: center;
+    height: 100px;
+    padding-top: 15px;
+}
+
+.ldl-logo {
+    height: 100px;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+    width: 100%;
+    height: 50px;
+}
+
+.navbar-border {
+    border-radius:30px;
+}
