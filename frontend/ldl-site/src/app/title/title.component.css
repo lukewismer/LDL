@@ -1,0 +1,36 @@
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ldl-title-bg {
+    background-color: #F3E9EC;
+    height: 800px;
+    line-height: 200px;
+    text-align: center;
+}
+
+
+.ldl-title-text {
+    display: inline;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.container {
+    display: inline-block;
+    cursor: pointer;
+    float: left;
+    margin: 15px;
+}
+  
+.bar1, .bar2, .bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #000;
+    margin: 6px 0;
+    border-radius: 5px;
+}
+
+.ldl-photo {
+
+}
