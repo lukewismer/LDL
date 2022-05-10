@@ -1,0 +1,42 @@
+.pillars-bg {
+    background:  #e1eedd;
+    height: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.pillar-title {
+    margin-top: 25px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 100px;
+    color: #183a1d;
+}
+
+.pillar-img {
+    padding-top: 50px;
+    height: 50px;
+}
+
+.row-seperator {
+    height: 100px;
+}
+
+.pillar-btn {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #f6c453;
+    border: #f6c453;
+    color: black;
+}
